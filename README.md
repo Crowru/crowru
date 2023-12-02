@@ -8,7 +8,6 @@
 - 🍏 Most of the time I'm writing on Swift
 - ✉️ You can shoot me an email at [crowruuu@gmail.com](mailto:crowruuu@gmail.com).
 
-#### My CV: [Ruslan Usmanov](https://drive.google.com/file/d/1Nzo6jjZIgojhhqCZG2SF0K4FwYbPT_fN/view?usp=sharing)
 
 <h3 align="left">My skills:</h3>
 <p align="left">
