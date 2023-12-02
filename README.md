@@ -36,9 +36,9 @@ class Me: Skills {
 
 ## My pet-projects
 
-[Hottest corner](https://github.com/Crowru/ImageFeed) - The multi-page application is designed to view images via the Unsplash API
+[Image Feed](https://github.com/Crowru/ImageFeed) - The multi-page application is designed to view images via the Unsplash API
 
-[Hottest corner](https://github.com/Crowru/MovieQuiz-ios) - An application with quizzes about films from the top 250 rating and the most popular films according to IMDb.
+[Movie Quiz](https://github.com/Crowru/MovieQuiz-ios) - An application with quizzes about films from the top 250 rating and the most popular films according to IMDb.
 
 ## 🤝 Connect with me
  [![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)](https://t.me/crowru)
