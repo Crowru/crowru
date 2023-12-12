@@ -50,13 +50,15 @@ class Me: Skills {
          />
 </a>
 
-
-
 ![Swift](https://img.shields.io/badge/swift-de5d43?&style=for-the-badge&logo=swift&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## My pet-projects
+
+[NFTMarket](https://github.com/Crowru/NFTMarket) - The application helps users to view and buy NFT
+
+[Tracker](https://github.com/Crowru/Tracker) - The application helps to form useful habits
 
 [Image Feed](https://github.com/Crowru/ImageFeed) - The multi-page application is designed to view images via the Unsplash API
 
